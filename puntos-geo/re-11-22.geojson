@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "re-11-22",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 15, "codigo": "re-11-22", "tipo_inter": "Movilidad activa y restauración del paisaje", "impac_terr": "Se trabajó un diseño junto con la municipalidad y se coordinó con la Escuela República del Perú", "canton": "San José", "distrito": null, "provin": "San José", "ano": 2022, "person_ut": "Adriana", "componete": "2", "foto": null }, "geometry": { "type": "Point", "coordinates": [ -84.075336525580113, 9.935073258773999 ] } }
+]
+}
