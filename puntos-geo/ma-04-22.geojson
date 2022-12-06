@@ -3,6 +3,6 @@
 "name": "ma-04-22",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-{ "type": "Feature", "properties": { "id": 13, "codigo": "ma-04-22", "tipo_inter": "Mobilidad activa", "impac_terr": "62 m de sendero y 386 m2 de rehabilitación del paisaje", "canton": "Barva", "distrito": "Santa Lucia", "provin": "Heredia", "ano": 2022, "person_ut": "Adriana Moya", "componete": "2", "foto": null }, "geometry": { "type": "Point", "coordinates": [ -84.121419088637822, 10.014987117694105 ] } }
+{ "type": "Feature", "properties": { "id": 13, "codigo": "ma-04-22", "tipo_inter": "Mobilidad activa", "impac_terr": "62 m de sendero y 386 m2 de rehabilitación del paisaje", "canton": "Barva", "distrito": "Santa Lucía", "provin": "Heredia", "ano": 2022, "person_ut": "Adriana Moya", "componete": "2", "foto": null }, "geometry": { "type": "Point", "coordinates": [ -84.121419088637822, 10.014987117694105 ] } }
 ]
 }
