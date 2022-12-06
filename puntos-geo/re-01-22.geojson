@@ -3,6 +3,6 @@
 "name": "re-01-22",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-{ "type": "Feature", "properties": { "id": 1, "codigo": "re-01-22", "tipo_inter": "Rehabilitacion o reforestacion del paisaje", "impac_terr": "74 m2", "canton": "Belen", "distrito": "La Ribera", "provin": "Heredia", "ano": 2022, "person_ut": "Fabricio Ballesteros", "componete": "2", "foto": "C:\\Users\\User\\Downloads\\tevu_monitoreo\\attachments\\575e294d711d42b2b3e6e8b68fcdb25b\\ma-01-22.jpg" }, "geometry": { "type": "Point", "coordinates": [ -84.180601372929942, 9.987259813833507 ] } }
+{ "type": "Feature", "properties": { "id": 1, "codigo": "re-01-22", "tipo_inter": "Rehabilitacion o reforestacion del paisaje", "impac_terr": "52.886 m2", "canton": "Belen", "distrito": "La Ribera", "provin": "Heredia", "ano": 2022, "person_ut": "Fabricio Ballesteros", "componete": "2", "foto": "C:\\Users\\User\\Downloads\\tevu_monitoreo\\attachments\\575e294d711d42b2b3e6e8b68fcdb25b\\ma-01-22.jpg" }, "geometry": { "type": "Point", "coordinates": [ -84.180601372929942, 9.987259813833507 ] } }
 ]
 }
