@@ -3,6 +3,6 @@
 "name": "re-02-22",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-{ "type": "Feature", "properties": { "id": 2, "codigo": "re-02-22", "tipo_inter": "Rehabilitacion o reforestacion del paisaje", "impac_terr": "3427 m2", "canton": "Heredia", "distrito": "Ulloa", "provin": "Heredia", "ano": 2022, "person_ut": "Fabricio Ballestero", "componete": "2", "foto": "C:\\Users\\User\\Downloads\\tevu_monitoreo\\attachments\\575e294d711d42b2b3e6e8b68fcdb25b\\ma-02-22.jpg" }, "geometry": { "type": "Point", "coordinates": [ -84.130486430756036, 9.98402872336148 ] } }
+{ "type": "Feature", "properties": { "id": 2, "codigo": "re-02-22", "tipo_inter": "Rehabilitacion o reforestacion del paisaje", "impac_terr": "1.456 m2", "canton": "Heredia", "distrito": "Ulloa", "provin": "Heredia", "ano": 2022, "person_ut": "Fabricio Ballestero", "componete": "2", "foto": "C:\\Users\\User\\Downloads\\tevu_monitoreo\\attachments\\575e294d711d42b2b3e6e8b68fcdb25b\\ma-02-22.jpg" }, "geometry": { "type": "Point", "coordinates": [ -84.130486430756036, 9.98402872336148 ] } }
 ]
 }
