@@ -3,6 +3,6 @@
 "name": "re-10-22",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-{ "type": "Feature", "properties": { "id": 14, "codigo": "re-10-22", "tipo_inter": "Rehabilitación o reforestación del paisaje", "impac_terr": "Se realizó un diseño participativo con la comunidad y se avanzaron permisos necesarios con el MOPT", "canton": "Curridabat", "distrito": null, "provin": "San José", "ano": 2022, "person_ut": "Adriana", "componete": "2", "foto": null }, "geometry": { "type": "Point", "coordinates": [ -84.012538200358264, 9.911425900226149 ] } }
+{ "type": "Feature", "properties": { "id": 14, "codigo": "re-10-22", "tipo_inter": "Rehabilitación o reforestación del paisaje", "impac_terr": "Se realizó un diseño participativo con la comunidad y se avanzaron permisos necesarios con el MOPT", "canton": "Curridabat", "distrito": null, "provin": "San José", "ano": 2022, "person_ut": "Adriana", "componete": "2", "foto": null, "Nombre": "Parque La Araucaria" }, "geometry": { "type": "Point", "coordinates": [ -84.012538200358264, 9.911425900226149 ] } }
 ]
 }

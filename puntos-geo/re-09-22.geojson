@@ -3,6 +3,6 @@
 "name": "re-09-22",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-{ "type": "Feature", "properties": { "id": 9, "codigo": "re-09-22", "tipo_inter": "Rehabilitación o reforestación del paisaje", "impac_terr": "109.668 m2", "canton": "La Unión", "distrito": "San Ramón", "provin": "Cartago", "ano": 2022, "person_ut": "Carla Padilla", "componete": "2", "foto": null }, "geometry": { "type": "Point", "coordinates": [ -84.007220653737008, 9.936193343218768 ] } }
+{ "type": "Feature", "properties": { "id": 9, "codigo": "re-09-22", "tipo_inter": "Rehabilitación o reforestación del paisaje", "impac_terr": "109.668 m2", "canton": "La Unión", "distrito": "San Ramón", "provin": "Cartago", "ano": 2022, "person_ut": "Carla Padilla", "componete": "2", "foto": null, "Nombre": "Condominio Las Rusia" }, "geometry": { "type": "Point", "coordinates": [ -84.007220653737008, 9.936193343218768 ] } }
 ]
 }
