@@ -8,17 +8,16 @@
 { "type": "Feature", "properties": { "id": 3, "punto": "Coris", "CBI": "Cobri Surac" }, "geometry": { "type": "Point", "coordinates": [ -83.989703463125593, 9.865481678834556 ] } },
 { "type": "Feature", "properties": { "id": 4, "punto": "INA", "CBI": "Cobri Surac" }, "geometry": { "type": "Point", "coordinates": [ -83.896505106994482, 9.88222355538948 ] } },
 { "type": "Feature", "properties": { "id": 5, "punto": "Retes", "CBI": null }, "geometry": { "type": "Point", "coordinates": [ -83.892055171924142, 9.958539920429113 ] } },
-{ "type": "Feature", "properties": { "id": 6, "punto": "Zona Franca La Lima", "CBI": null }, "geometry": { "type": "Point", "coordinates": [ -83.950467909443788, 9.86798870565398 ] } },
+{ "type": "Feature", "properties": { "id": 6, "punto": "La Guapíl", "CBI": null }, "geometry": { "type": "Point", "coordinates": [ -83.950467909443788, 9.86798870565398 ] } },
 { "type": "Feature", "properties": { "id": 7, "punto": "TEC", "CBI": null }, "geometry": { "type": "Point", "coordinates": [ -83.911789001233743, 9.856691265368909 ] } },
 { "type": "Feature", "properties": { "id": 8, "punto": "Boulevar Salesiano", "CBI": "Cobri Surac" }, "geometry": { "type": "Point", "coordinates": [ -83.931072790791589, 9.861885628934571 ] } },
 { "type": "Feature", "properties": { "id": 9, "punto": "Jardin Botanico LK", "CBI": "Cobri Surac" }, "geometry": { "type": "Point", "coordinates": [ -83.890350198492385, 9.839094065414347 ] } },
-{ "type": "Feature", "properties": { "id": 10, "punto": "Santa Clara", "CBI": "Cobri Surac" }, "geometry": { "type": "Point", "coordinates": [ -83.995071115889132, 9.803567744952776 ] } },
+{ "type": "Feature", "properties": { "id": 10, "punto": "Río Loro", "CBI": "Tiribí" }, "geometry": { "type": "Point", "coordinates": [ -83.995071115889132, 9.803567744952776 ] } },
 { "type": "Feature", "properties": { "id": 11, "punto": "Altos de Quebradilla", "CBI": "Cobri Surac" }, "geometry": { "type": "Point", "coordinates": [ -83.998474605345152, 9.846921252828546 ] } },
 { "type": "Feature", "properties": { "id": 1, "punto": "Llano de San Miguel", "CBI": "Tiribi" }, "geometry": { "type": "Point", "coordinates": [ -84.123782180022786, 9.883427089788762 ] } },
 { "type": "Feature", "properties": { "id": 2, "punto": "Río Limón", "CBI": "Tiribi" }, "geometry": { "type": "Point", "coordinates": [ -84.119489330908522, 9.874522554616886 ] } },
 { "type": "Feature", "properties": { "id": 3, "punto": "Finca INVU Hatillo 4", "CBI": "Tiribi" }, "geometry": { "type": "Point", "coordinates": [ -84.112388125104331, 9.92045952390778 ] } },
 { "type": "Feature", "properties": { "id": 4, "punto": "Parque La Libertad", "CBI": "Tiribi" }, "geometry": { "type": "Point", "coordinates": [ -84.034115819694989, 9.890135891259748 ] } },
-{ "type": "Feature", "properties": { "id": 999, "punto": "Finca Municipal Los Lotes", "CBI": "Tiribi/CBIMA" }, "geometry": { "type": "Point", "coordinates": [ -83.973930283331214, 9.937481127451507 ] } },
 { "type": "Feature", "properties": { "id": 6, "punto": "La Rueda", "CBI": "Tiribi" }, "geometry": { "type": "Point", "coordinates": [ -83.997247732409136, 9.857491352421217 ] } },
 { "type": "Feature", "properties": { "id": 2, "punto": "Finca Siete Manantiales", "CBI": "CBIMA" }, "geometry": { "type": "Point", "coordinates": [ -83.989141199566077, 9.933796460209095 ] } },
 { "type": "Feature", "properties": { "id": 3, "punto": "Naturaleza del Este", "CBI": "CBIMA" }, "geometry": { "type": "Point", "coordinates": [ -83.979477090601279, 9.931551115636562 ] } },
@@ -51,6 +50,7 @@
 { "type": "Feature", "properties": { "id": 3, "punto": "El Rodeo", "CBI": "Garcimuñoz" }, "geometry": { "type": "Point", "coordinates": [ -84.302003441005226, 9.918836093815308 ] } },
 { "type": "Feature", "properties": { "id": 10, "punto": "Rio Loro", "CBI": "Tiribi" }, "geometry": { "type": "Point", "coordinates": [ -83.941508979886763, 9.907226959569204 ] } },
 { "type": "Feature", "properties": { "id": 3, "punto": "UTN Sede Central", "CBI": "Garcimuñoz" }, "geometry": { "type": "Point", "coordinates": [ -84.213806492209116, 10.013649279212901 ] } },
-{ "type": "Feature", "properties": { "id": 49, "punto": "Barva", "CBI": "Sin Corredor" }, "geometry": { "type": "Point", "coordinates": [ -84.105755549819449, 10.10114594324406 ] } }
+{ "type": "Feature", "properties": { "id": 49, "punto": "Barva", "CBI": "Sin Corredor" }, "geometry": { "type": "Point", "coordinates": [ -84.105755549819449, 10.10114594324406 ] } },
+{ "type": "Feature", "properties": { "id": 999, "punto": "Finca Municipal Los Lotes", "CBI": "Tiribí/CBIMA" }, "geometry": { "type": "Point", "coordinates": [ -83.973930283331214, 9.937481127451507 ] } }
 ]
 }
